@@ -18,6 +18,8 @@
   "homepage": "https://github.com/dewanshDT/indian_valuers_backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "slugify": "^1.6.5"
   }
 }
